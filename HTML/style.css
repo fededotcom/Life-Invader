@@ -1,0 +1,74 @@
+    #signIn_button{
+        cursor: pointer;
+        border-radius: 3px;
+        background-color: rgb(212, 28, 28);
+        margin-left: 50%;
+        margin-right: 5px;
+        color: white;
+        border-color: transparent;
+        height: 30px;
+        width: 75px;
+        transition: 0.30s;
+    }
+
+    #signIn_button:hover {
+        background-color: white;
+        color: rgb(212, 28, 28);
+        border-color: rgb(212, 28, 28);
+        border-style: solid;
+    }
+
+    .social_media{
+        height: 20px;
+        width: 113px;
+        background-color: white;
+        color: black;
+    }
+    
+    footer{
+        color: white;
+        margin-left: 50%;
+        margin-right: 50%;
+        margin-top: 750px;
+    }
+    #register_button{
+        height: 30px;
+        width: 95px;
+        color: rgb(28, 119, 255);
+        background-color: white;
+        border-color: rgb(28, 119, 255);
+        border-style: solid;
+        border-radius: 3px;
+        cursor: pointer;
+        border-width: 1px;
+        transition: 0.30s;
+    }
+
+    #register_button:hover {
+        color: white;
+        background-color: rgb(28, 119, 255);
+        box-shadow: 0px 5px 10px rgb(87, 86, 86);
+    }
+
+    .icon {
+        background-color: rgb(62, 62, 216);
+        color: white;
+        width: 30%;
+        height: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .login {
+        margin-right: 50%;
+        margin-left: 50%;
+    }
+
+    .divLogin {
+        background-color: rgb(62, 62, 216);
+        
+    }
+
+    .signInLabel {
+        margin-left: 50%;
+        color: white;
+    }
